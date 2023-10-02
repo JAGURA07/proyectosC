@@ -1,0 +1,240 @@
+------------------------
+|---Encuesta de Natan---|
+------------------------
+
+Resultados de: Jafet Alexis Gutierrez Rangel 
+--Pregunta--
+Pregunta 8
+--Respuesta--
+a
+--Pregunta--
+Pregunta 9
+--Respuesta--
+a
+--Pregunta--
+Pregunta 5
+--Respuesta--
+a
+--Pregunta--
+Pregunta 3
+--Respuesta--
+a
+--Pregunta--
+Pregunta 11
+--Respuesta--
+a
+--Pregunta--
+Pregunta 2
+--Respuesta--
+a
+--Pregunta--
+Pregunta 6
+--Respuesta--
+a
+--Pregunta--
+Pregunta 7
+--Respuesta--
+a
+--Pregunta--
+Pregunta 4
+--Respuesta--
+a
+--Pregunta--
+Pregunta 10
+--Respuesta--
+a
+Numero de aciertos: 10
+Numero de errores: 0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------
+|---Encuesta de Xen ---|
+------------------------
+
+Resultados de: Jafet Alexis Gutierrez Rangel 
+--Pregunta--
+Pregunta 7
+--Respuesta--
+a
+--Pregunta--
+Pregunta 8
+--Respuesta--
+a
+--Pregunta--
+Pregunta 1
+--Respuesta--
+o
+--Pregunta--
+Pregunta 9
+--Respuesta--
+a
+--Pregunta--
+Pregunta 2
+--Respuesta--
+a
+--Pregunta--
+Pregunta 3
+--Respuesta--
+a
+--Pregunta--
+Pregunta 5
+--Respuesta--
+a
+--Pregunta--
+Pregunta 4
+--Respuesta--
+a
+--Pregunta--
+Pregunta 6
+--Respuesta--
+a
+--Pregunta--
+Pregunta 11
+--Respuesta--
+a
+Numero de aciertos: 10
+Numero de errores: 0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------
+|---Encuesta de Rock---|
+------------------------
+
+Resultados de: Jafet Alexis Gutierrez Rangel 
+--Pregunta--
+Pregunta 10
+--Respuesta--
+a
+--Pregunta--
+Pregunta 5
+--Respuesta--
+a
+--Pregunta--
+Pregunta 9
+--Respuesta--
+a
+--Pregunta--
+Pregunta 1
+--Respuesta--
+Ì
+--Pregunta--
+Pregunta 8
+--Respuesta--
+a
+--Pregunta--
+Pregunta 3
+--Respuesta--
+a
+--Pregunta--
+Pregunta 4
+--Respuesta--
+d
+--Pregunta--
+Pregunta 2
+--Respuesta--
+d
+--Pregunta--
+Pregunta 11
+--Respuesta--
+b
+--Pregunta--
+Pregunta 6
+--Respuesta--
+b
+Numero de aciertos: 5
+Numero de errores: 5
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------
+|--Encuesta de Aurora--|
+------------------------
+
+Resultados de: Jafet Alexis Gutierrez Rangel 
+--Pregunta--
+Pregunta 11
+--Respuesta--
+a
+--Pregunta--
+Pregunta 3
+--Respuesta--
+s
+--Pregunta--
+Pregunta 4
+--Respuesta--
+f
+--Pregunta--
+Pregunta 2
+--Respuesta--
+f
+--Pregunta--
+Pregunta 5
+--Respuesta--
+f
+--Pregunta--
+Pregunta 9
+--Respuesta--
+f
+--Pregunta--
+Pregunta 8
+--Respuesta--
+f
+--Pregunta--
+Pregunta 6
+--Respuesta--
+f
+--Pregunta--
+Pregunta 7
+--Respuesta--
+f
+--Pregunta--
+Pregunta 1
+--Respuesta--
+ÿ
+Numero de aciertos: 1
+Numero de errores: 9
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------
+|---Encuesta de Rock---|
+------------------------
+
+Resultados de: Sofia Guerrero Ruano
+--Pregunta--
+Pregunta 9
+--Respuesta--
+a
+--Pregunta--
+Pregunta 7
+--Respuesta--
+a
+--Pregunta--
+Pregunta 8
+--Respuesta--
+a
+--Pregunta--
+Pregunta 5
+--Respuesta--
+a
+--Pregunta--
+Pregunta 1
+--Respuesta--
+Ì
+--Pregunta--
+Pregunta 3
+--Respuesta--
+a
+--Pregunta--
+Pregunta 4
+--Respuesta--
+a
+--Pregunta--
+Pregunta 11
+--Respuesta--
+a
+--Pregunta--
+Pregunta 6
+--Respuesta--
+a
+--Pregunta--
+Pregunta 10
+--Respuesta--
+a
+Numero de aciertos: 10
+Numero de errores: 0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------

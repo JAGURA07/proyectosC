@@ -1,0 +1,13 @@
+
+Nombre: KHAHBFAS
+ID: 1313
+Hora de entrada: 7
+Hora de salida: 15
+Sueldo quincenal de: 12000
+같같같같같같같같같같같같같같같같같같같같같같같같같같같같같�
+Nombre: Jafet Alexis Gutierrez Rangel
+ID: 199
+Hora de entrada: 7
+Hora de salida: 20
+Sueldo quincenal de: 19500
+같같같같같같같같같같같같같같같같같같같같같같같같같같같같같�
